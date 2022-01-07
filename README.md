@@ -2,13 +2,22 @@
 
 ## Description
 
-Password Generator that randomly generates a password that meets all the given criteria.
+A Password Generator that randomly generates a password that meets all the given criteria.
 
-## Screenshot
+## How to Use
 
-![The Password Generator includes prompts such as, choose between 8 and 128 characters, if the user would like lowercase letters, uppercase letters, special characters, or numbers.] (//Users/rachelyarkony/code/passwordgenerator/assets/images/Screen Shot 2022-01-07 at 1.58.48 PM.png)
+-Click the Generate Password Button,
+-When prompted, choose password length,
+-Then the user chooses special characters or not,
+-Then the user chooses lowercase letters or not,
+-Then the user chooses uppercase or not,
+-Then the user chooses numbers or not
+
+## Author
+
+Rachel Haddad
 
 ## Link to Repository
 
--Here is the repo: []
--Here are the pages: []
+-Here is the repo: [https://github.com/buttercupsmom/passwordgenerator.git]
+-Here are the pages: [https://buttercupsmom.github.io/passwordgenerator/]
